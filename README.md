@@ -1,4 +1,11 @@
-Hi 👋 My name is Ashiqur Rahman ===============================  NUS Computer Science Undergraduate ----------------------------------  * 🌍  I'm based in Singapore * 🚀  I'm currently working on [Spacetify](http://spacetify.xyz) * 🧠  I'm learning Svelte * 🤝  I'm open to collaborating on React Projects
+Hi 👋 My name is Ashiqur Rahman 
+===============================  
+NUS Computer Science Undergraduate 
+----------------------------------  
+* 🌍  I'm based in Singapore 
+* 🚀  I'm currently working on [Spacetify](http://spacetify.xyz) 
+* 🧠  I'm learning Svelte 
+* 🤝  I'm open to collaborating on React Projects
 
 ### Skills
 

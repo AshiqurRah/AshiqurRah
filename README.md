@@ -1,4 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashiqur Rahman ======================================================================================================================================  NUS Computer Science Undergraduate ----------------------------------  * 🌍  I'm based in Singapore * ✉️  You can contact me at [ashiqur.rahman.ha@gmail.com](mailto:ashiqur.rahman.ha@gmail.com) * 🧠  I'm learning PostgreSQL * 🤝  I'm open to collaborating on any React projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashiqur Rahman 
+===
+
+NUS Computer Science Undergraduate 
+----------------------------------  
+
+* 🌍  I'm based in Singapore 
+* ✉️  You can contact me at [ashiqur.rahman.ha@gmail.com](mailto:ashiqur.rahman.ha@gmail.com)  
+* 🧠  I'm learning PostgreSQL * 🤝  I'm open to collaborating on any React projects
+* 🤝  I'm open to collaborating on any React projects
 
 ### Skills  
 

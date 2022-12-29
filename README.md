@@ -6,7 +6,7 @@ NUS Computer Science Undergraduate
 
 * 🌍  I'm based in Singapore 
 * ✉️  You can contact me at [ashiqur.rahman.ha@gmail.com](mailto:ashiqur.rahman.ha@gmail.com)  
-* 🧠  I'm learning PostgreSQL * 🤝  I'm open to collaborating on any React projects
+* 🧠  I'm learning PostgreSQL 
 * 🤝  I'm open to collaborating on any React projects
 
 ### Skills  

@@ -4,7 +4,6 @@ NUS Computer Science Graduate
 ----------------------------------  
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [ashiqur.rahman.ha@gmail.com](mailto:ashiqur.rahman.ha@gmail.com)
-* 🧠  I'm learning Realm, MongoDB for auto synchronization
 * 🤝  I'm open to collaborating on React projects that are community based.
 
 ### Skills  
